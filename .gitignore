@@ -1,0 +1,17 @@
+# Firebase - NEVER upload this
+google-services.json
+
+# Keystore
+*.jks
+*.keystore
+
+# Build files
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
