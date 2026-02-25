@@ -6,7 +6,6 @@
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?style=flat-square&logo=kotlin)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?style=flat-square&logo=firebase)
 ![Min SDK](https://img.shields.io/badge/Min%20SDK-24-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-red?style=flat-square)
 
 ---
 
