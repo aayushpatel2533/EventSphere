@@ -183,7 +183,9 @@ service cloud.firestore {
 ## 👨‍💻 Author
 
 **Ryker**
+**Aayush**
 - GitHub: [@sreekanthteegala](https://github.com/sreekanthteegala)
+- GitHub: [@aayushpatel253]
 
 ---
 
