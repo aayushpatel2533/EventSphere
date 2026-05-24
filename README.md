@@ -185,7 +185,7 @@ service cloud.firestore {
 **Ryker**
 **Aayush**
 - GitHub: [@sreekanthteegala](https://github.com/sreekanthteegala)
-- GitHub: [@aayushpatel253]
+- GitHub: [@aayushpatel2533](https://github.com/aayushpatel2533)
 
 ---
 
